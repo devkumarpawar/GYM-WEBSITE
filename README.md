@@ -1,2 +1,2 @@
 # GYM-WEBSITE
- **Created an application form using CSS,HTML,Javascript**
+ **Created an application form of GYM website using CSS,HTML,Javascript**
