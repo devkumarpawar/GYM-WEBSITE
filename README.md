@@ -1,2 +1,2 @@
 # GYM-WEBSITE
- **Created an application form of GYM website using CSS,HTML,Javascript**
+ **I am created a Good Looking Website of GYM by naming Dev Fitness .In that website i had given some HD pictures, logos of gym. Website is for that peoples who want to take the admissions for dev fitness should filled that form. It should be very helpful & useful for that coachers who takes the admission of candidates. I made it using all frontend languages as HTML5,CSS3,Bootstrap.**
